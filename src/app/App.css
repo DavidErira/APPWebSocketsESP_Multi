@@ -1,0 +1,23 @@
+
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+#title-container{
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+#SocketNew{
+    background: #161616;
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    padding: 5px 0;
+    width: 10%;
+    border-radius: 10px 10px 10px 10px;
+    font-family: 'Comfortaa', cursive;
+    margin:5px 60%;
+}
